@@ -38,11 +38,11 @@
 
 1944 年版已译为中文，需要纸本书请联系张永军弟兄-电话：13649566217
 1897 年 版 是 史 密 斯 生 前 最 后 一 版 -《 但 以 理 和 启 示 录》 版 本 - 来 源：
-电子书 ( 在线 )- 
-https://beta.egwwritings.org/read?paraId=p12861.1&id=p12861.1&index=0
+> 电子书 ( 在线 )- 
+> https://beta.egwwritings.org/read?paraId=p12861.1&id=p12861.1&index=0
 
-纸质书 (P D F )-
-https://sdapillars.org/media/download_gallery/US_DanRev1897.pdf
+> 纸质书 (P D F )-
+> https://sdapillars.org/media/download_gallery/US_DanRev1897.pdf
 
 如果无法打开网站请与我联系——电话 & 微信：13049391928
 
