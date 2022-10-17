@@ -1,6 +1,8 @@
 # 【启示录预言图解】
 
-> ### 点击下载<a href="https://github.com/VerneWei/Revelation-Illustration/raw/main/%E5%90%AF%E7%A4%BA%E5%BD%95%E9%A2%84%E8%A8%80%E5%9B%BE%E8%A7%A3-1.0%E7%AE%80%E4%BD%93%E7%89%88-07%2C2022%E5%B9%B42%E6%9C%8816%E6%97%A5.pdf">【启示录预言图解】1.0简体版-PDF下载</a>
+##【2022年10月17日-更新1.2版】
+
+> ### 点击下载<a href="https://github.com/VerneWei/Revelation-Illustration/raw/main/%E5%90%AF%E7%A4%BA%E5%BD%95%E9%A2%84%E8%A8%80%E5%9B%BE%E8%A7%A3-1.2%E7%AE%80%E4%BD%93%E7%89%88.pdf">【启示录预言图解】1.2简体版-PDF下载</a>
 
 ![image](https://github.com/VerneWei/Revelation-Illustration/blob/main/%E5%90%AF%E7%A4%BA%E5%BD%95%E9%A2%84%E8%A8%80%E5%9B%BE%E8%A7%A3-1.2%E7%AE%80%E4%BD%93%E7%89%88.jpg)
 
