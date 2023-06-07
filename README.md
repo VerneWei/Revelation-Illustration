@@ -1,14 +1,23 @@
 # 【启示录预言图解】
 
-## 【2022年10月17日-更新1.2版】
+## 【2023年6月6日-更新1.4版】
 
-> ### 点击下载<a href="https://github.com/VerneWei/Revelation-Illustration/raw/main/%E5%90%AF%E7%A4%BA%E5%BD%95%E9%A2%84%E8%A8%80%E5%9B%BE%E8%A7%A3-1.2%E7%AE%80%E4%BD%93%E7%89%88.pdf">【启示录预言图解】1.2简体版-PDF·下载</a>
-
-
-> ### 点击下载<a href="https://github.com/VerneWei/Revelation-Illustration/raw/main/%E5%90%AF%E7%A4%BA%E5%BD%95%E9%A2%84%E8%A8%80%E5%9B%BE%E8%A7%A3-1.2%E7%AE%80%E4%BD%93%E7%89%88.jpg">【启示录预言图解】1.2简体版-图片·下载</a>
+> ### 点击下载<a href="https://raw.githubusercontent.com/VerneWei/Revelation-Illustration/main/%E5%90%AF%E7%A4%BA%E5%BD%95%E9%A2%84%E8%A8%80%E5%9B%BE%E8%A7%A3%20-1.4-%20%E7%AE%80%E4%BD%93%E7%94%B5%E5%AD%90%E5%88%86%E4%BA%AB%E7%89%88%20%C2%B7%202023-6-6.jpg">2023-6-6【启示录预言图解】1.4简体版-图片·下载</a>
 
 
-![image](https://github.com/VerneWei/Revelation-Illustration/blob/main/%E5%90%AF%E7%A4%BA%E5%BD%95%E9%A2%84%E8%A8%80%E5%9B%BE%E8%A7%A3-1.2%E7%AE%80%E4%BD%93%E7%89%88.jpg)
+![image](https://github.com/VerneWei/Revelation-Illustration/blob/main/%E5%90%AF%E7%A4%BA%E5%BD%95%E9%A2%84%E8%A8%80%E5%9B%BE%E8%A7%A3%20-1.4-%20%E7%AE%80%E4%BD%93%E7%94%B5%E5%AD%90%E5%88%86%E4%BA%AB%E7%89%88%20%C2%B7%202023-6-6.jpg)
+
+<br>
+### 新增内容
+> 1、增加：中国古代历史对照时期
+> 2、重做：圣所
+> 3、重新设计：七印背景卷轴
+> 4、调整：12~13章内容
+> 5、重做：不同主题的颜色
+> 6、新增：天上圣所的样式
+> 7、增加：小角的成长历史
+> 修改：一些图中的勘误……
+
 
 
 
@@ -24,6 +33,7 @@
 > - 最初开始于：     2020年12月01日；
 > - 初稿完成于：     2022年02月11日； 
 > - 第 1.0 版，完成于：2022 年 02 月 15日
+> - 第 1.4 版，完成于：2023 年 06 月 6日
 > - 电话 & 微信：13049391928
 > - 脸书 -FaceBook: Verne.wei.54
 > - 谷歌邮箱：francalhenhenhahei@gmail.com
