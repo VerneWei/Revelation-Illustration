@@ -1,15 +1,18 @@
 # 【启示录预言图解】
 
-## 【2023年6月6日-更新1.4版】
+## 【2023年8月1日-更新1.8版】
 
-> ### 点击下载<a href="https://raw.githubusercontent.com/VerneWei/Revelation-Illustration/main/%E5%90%AF%E7%A4%BA%E5%BD%95%E9%A2%84%E8%A8%80%E5%9B%BE%E8%A7%A3%20-1.4-%20%E7%AE%80%E4%BD%93%E7%94%B5%E5%AD%90%E5%88%86%E4%BA%AB%E7%89%88%20%C2%B7%202023-6-6.jpg">2023-6-6【启示录预言图解】1.4简体版-图片·下载</a>
+> ### 点击下载<a href="https://github.com/VerneWei/Revelation-Illustration/blob/main/%E5%90%AF%E7%A4%BA%E5%BD%95%E9%A2%84%E8%A8%80%E5%9B%BE%E8%A7%A3%20-1.8-%20%E7%AE%80%E4%BD%93%E7%94%B5%E5%AD%90%E5%88%86%E4%BA%AB%E7%89%88%20%C2%B7%202023-8-1.jpg">2023-6-6【启示录预言图解】1.8简体版-图片·下载</a>
 
 
-![image](https://github.com/VerneWei/Revelation-Illustration/blob/main/%E5%90%AF%E7%A4%BA%E5%BD%95%E9%A2%84%E8%A8%80%E5%9B%BE%E8%A7%A3%20-1.4-%20%E7%AE%80%E4%BD%93%E7%94%B5%E5%AD%90%E5%88%86%E4%BA%AB%E7%89%88%20%C2%B7%202023-6-6.jpg)
+![image](https://github.com/VerneWei/Revelation-Illustration/blob/main/%E5%90%AF%E7%A4%BA%E5%BD%95%E9%A2%84%E8%A8%80%E5%9B%BE%E8%A7%A3%20-1.8-%20%E7%AE%80%E4%BD%93%E7%94%B5%E5%AD%90%E5%88%86%E4%BA%AB%E7%89%88%20%C2%B7%202023-8-1.jpg)
 
 <br>
 
-> ### 新增内容
+> ### 1.8版新增内容
+调整第五号时间
+
+> ### 1.4版新增内容
 > - 1、增加：中国古代历史对照时期
 > - 2、重做：圣所
 > - 3、重新设计：七印背景卷轴
