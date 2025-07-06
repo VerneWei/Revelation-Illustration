@@ -9,6 +9,11 @@
 
 <br>
 
+https://www.youtube.com/playlist?list=PLYL1obvmroFGvDZQMT6pxMEPieoPIzi4E
+
+![IMAGE ALT TEXT HERE](https://i.ytimg.com/vi/aPByd-Kuvxo/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLAqykHPl81SsWNzuOg0muw7HR3HpQ)](https://www.youtube.com/playlist?list=PLYL1obvmroFGvDZQMT6pxMEPieoPIzi4E)
+
+<br>
 > ### 1.8版新增内容
 调整第五号时间
 
@@ -74,7 +79,6 @@
 
 ## 《但以理和启示录》作者-乌利亚·史密斯【下载来源】
 
-1944 年版已译为中文，需要纸本书请联系张永军弟兄-电话：13649566217
 1897 年 版 是 史 密 斯 生 前 最 后 一 版 -《 但 以 理 和 启 示 录》 版 本 - 来 源：
 > ### 电子书 ( 在线 )- 
 > https://beta.egwwritings.org/read?paraId=p12861.1&id=p12861.1&index=0
