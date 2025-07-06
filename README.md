@@ -17,9 +17,15 @@
 <br>
 <br>
 
-[![Watch the demo](https://i.ytimg.com/vi/aPByd-Kuvxo/hqdefault.jpg)](https://www.youtube.com/watch?v=aPByd-Kuvxo&list=PLYL1obvmroFGvDZQMT6pxMEPieoPIzi4E "点击播放")
+## 【点击👇以下图片观看启示录视频】
+[![启示录](https://i.ytimg.com/vi/aPByd-Kuvxo/hqdefault.jpg)](https://www.youtube.com/watch?v=aPByd-Kuvxo&list=PLYL1obvmroFGvDZQMT6pxMEPieoPIzi4E "点击播放")
 
+<br>
+<br>
+<br>
 
+## 【点击👇以下图片观看但以理视频】
+[![但以理](https://i.ytimg.com/vi/5CZJmdGottg/hqdefault.jpg)](https://www.youtube.com/watch?v=5CZJmdGottg&list=PLYL1obvmroFF6C9Vk7H5hV8TRshAS7z9y&index=1&t=175s "点击播放")
 
 <br>
 <br>
