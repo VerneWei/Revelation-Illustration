@@ -8,15 +8,24 @@
 ![image](https://github.com/VerneWei/Revelation-Illustration/blob/main/%E5%90%AF%E7%A4%BA%E5%BD%95%E9%A2%84%E8%A8%80%E5%9B%BE%E8%A7%A3%20-1.8-%20%E7%AE%80%E4%BD%93%E7%94%B5%E5%AD%90%E5%88%86%E4%BA%AB%E7%89%88%20%C2%B7%202023-8-1.jpg)
 
 <br>
-
-
 <br>
-
-
+<br>
 
 [![Watch the demo](https://i.ytimg.com/vi/aPByd-Kuvxo/hqdefault.jpg)](https://www.youtube.com/watch?v=aPByd-Kuvxo&list=PLYL1obvmroFGvDZQMT6pxMEPieoPIzi4E "点击播放")
 
+<br>
+<br>
+<br>
 
+<iframe width="560" height="315"
+        src="https://www.youtube.com/watch?v=aPByd-Kuvxo&list=PLYL1obvmroFGvDZQMT6pxMEPieoPIzi4E"
+        title="YouTube video player" frameborder="0"
+        allow="accelerometer; autoplay; clipboard-write;
+               encrypted-media; gyroscope; picture-in-picture"
+        allowfullscreen></iframe>
+
+<br>
+<br>
 <br>
 > ### 1.8版新增内容
 调整第五号时间
