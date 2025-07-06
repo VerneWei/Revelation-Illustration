@@ -10,8 +10,9 @@
 <br>
 
 https://www.youtube.com/playlist?list=PLYL1obvmroFGvDZQMT6pxMEPieoPIzi4E
+https://www.youtube.com/watch?v=aPByd-Kuvxo&list=PLYL1obvmroFGvDZQMT6pxMEPieoPIzi4E
 
-![IMAGE ALT TEXT HERE](https://i.ytimg.com/vi/aPByd-Kuvxo/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLAqykHPl81SsWNzuOg0muw7HR3HpQ)](https://www.youtube.com/playlist?list=PLYL1obvmroFGvDZQMT6pxMEPieoPIzi4E)
+[![启示录系列视频-正在制作中](https://i.ytimg.com/vi/aPByd-Kuvxo/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLAqykHPl81SsWNzuOg0muw7HR3HpQ)](https://www.youtube.com/watch?v=aPByd-Kuvxo&list=PLYL1obvmroFGvDZQMT6pxMEPieoPIzi4E)
 
 <br>
 > ### 1.8版新增内容
