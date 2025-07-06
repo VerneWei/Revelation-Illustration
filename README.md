@@ -1,18 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <title>YouTube 视频嵌入</title>
-</head>
-<body>
-  <h1>播放 YouTube 视频</h1>
-
-  <iframe width="800" height="450"
-          src="https://www.youtube.com/embed/dQw4w9WgXcQ"
-          frameborder="0"
-          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-          allowfullscreen>
-  </iframe>
 
 
 
@@ -34,16 +19,7 @@
 
 [![Watch the demo](https://i.ytimg.com/vi/aPByd-Kuvxo/hqdefault.jpg)](https://www.youtube.com/watch?v=aPByd-Kuvxo&list=PLYL1obvmroFGvDZQMT6pxMEPieoPIzi4E "点击播放")
 
-<br>
-<br>
-<br>
 
-<iframe width="560" height="315"
-        src="https://www.youtube.com/watch?v=aPByd-Kuvxo&list=PLYL1obvmroFGvDZQMT6pxMEPieoPIzi4E"
-        title="YouTube video player" frameborder="0"
-        allow="accelerometer; autoplay; clipboard-write;
-               encrypted-media; gyroscope; picture-in-picture"
-        allowfullscreen></iframe>
 
 <br>
 <br>
@@ -122,8 +98,6 @@
 > ### 如果无法打开网站请与我联系——电话 & 微信：13049391928
 
 
-</body>
-</html>
 
 
 
